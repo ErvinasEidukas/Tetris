@@ -1,0 +1,22 @@
+Rules:
+Rules are like in the classical Tetris. Your goal is to collect the highest possible score.
+You are getting points for removing fully filled lines.
+More lines you remove at the same time the bigger reward you get.
+
+for 1 line = 100 points
+for 2 line = 400 points
+for 3 line = 900 points
+for 4 line = 1600 points
+
+Each time you remove lines, the pieces starts to fall faster.
+If a piece reaches the top of the screen, you lose.
+
+Controls:
+Arrow_key_right / D - Move piece to the right
+Arrow_key_left / A - Move piece to the left
+Arrow_key_up / W - Rotate piece clockwise
+Arrow_key_down / S - Move piece down
+L - Rotate piece conter clockwise
+H - "Hold"
+M - Mute/unmute music
+esc - Open menu/pause game
