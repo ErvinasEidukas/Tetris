@@ -1,3 +1,7 @@
+# How to run the game?
+
+Download zip file -> unzip it -> run file "tetris 2.0.exe -> enjoi
+
 # Tetris
 Program written in C++ (using SFML library) for Windows (2021, April)
 
